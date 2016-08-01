@@ -1,0 +1,19 @@
+{
+  "name": "simcomjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "serialport": ">= 1.1.1",
+    "pdu": ">= 1.1.0",
+    "bluebird": "~3.4.1"
+  },
+  "license": "ISC"
+}
